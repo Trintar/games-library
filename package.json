@@ -1,0 +1,28 @@
+{
+  "name": "games-library",
+  "version": "1.0.0",
+  "description": "Games library that displays game information and completion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trintar/games-library.git"
+  },
+  "keywords": [
+    "steam",
+    "games",
+    "library"
+  ],
+  "author": "Brian Gallops",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Trintar/games-library/issues"
+  },
+  "homepage": "https://github.com/Trintar/games-library#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "steam-api": "^1.1.3"
+  }
+}
